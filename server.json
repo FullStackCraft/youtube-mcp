@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "com.fullstackcraft/youtube-mcp",
+  "description": "Safe, local-first YouTube channel analytics and reviewed metadata updates",
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@fullstackcraftllc/youtube-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "node >=22",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

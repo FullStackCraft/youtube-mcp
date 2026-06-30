@@ -1,0 +1,17 @@
+node_modules/
+dist/
+coverage/
+*.tgz
+.DS_Store
+.env
+.env.*
+!.env.example
+client_secret*.json
+client-secrets*.json
+credentials*.json
+token*.json
+tokens*.json
+oauth*.json
+*.pem
+*.key
+.youtube-mcp/
